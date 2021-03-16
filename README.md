@@ -1,3 +1,3 @@
 # sample
-サンプル
+kaigyou test
 test
